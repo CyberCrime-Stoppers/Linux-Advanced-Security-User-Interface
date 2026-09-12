@@ -1,14 +1,14 @@
 
 
 bash script to properly initiate
-|							      |
+|							                                                      |
  \_>      export LASUI_TOKEN="dev-token-change-me"         <_/
   \_>     uvicorn lasui.api:app --reload --port 8431      <_/
 
 
 Install these independenies so the App can RUN/Execute
-|						               |
+|						                                                        |
  \_>      sudo apt install --no-install-recommends npm      <_/
 
-|						                   |
+|						                                                            |
  \_>      sudo apt install --no-install-recommends uvicorn      <_/
